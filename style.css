@@ -3,13 +3,23 @@ body{
 }
 
 h1{
-    color:rgb(0, 0, 0)
-    font-size:50px;
-    text-align:center;
+    color: rgb(0, 0, 0)
+    font-size: 50px;
+    text-align: center;
 }
 
 p {
-    color:#000000;
-    font-size:30px;
-    text-align:justify;
+    color: #000000;
+    font-size: 30px;
+    text-align: justify;
+}
+
+#imagem{
+    height: 150px;
+    width: 150px;
+    padding: 5px;
+    margin: 5px;
+    border: 2px groove #362FD9;
+    border-radius: 20px;
+    
 }
